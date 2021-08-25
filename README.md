@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything around containers
 - 🌱 I’m currently learning golang, rust programming languages and Kubernetes
 - 💞️ I’m looking to collaborate on Kubernetes
-- 📫 How to reach me ...
+- 📫 How to reach me? email me at veerun14@hotmail.com
 
 <!---
 veerun14/veerun14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
